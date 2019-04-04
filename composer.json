@@ -1,0 +1,14 @@
+{
+    "name": "constup/php-constants",
+    "description": "PHP related constants",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Constup",
+            "email": "16638173+constup@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
