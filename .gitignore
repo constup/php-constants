@@ -2,3 +2,5 @@
 /.project
 /*.phar
 /vendor/
+.phpunit.result.cache
+/codeCoverage/*
