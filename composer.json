@@ -10,5 +10,15 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Constup\\PhpConstants\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Constup\\PhpConstants\\Tests\\": "tests/"
+        }
+    },
     "require": {}
 }
